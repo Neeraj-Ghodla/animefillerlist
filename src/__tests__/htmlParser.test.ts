@@ -1,7 +1,0 @@
-describe('HtmlParser', () => {
-
-  it('constructor', () => {
-    
-  });
-
-});
