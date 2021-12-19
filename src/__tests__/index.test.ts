@@ -1,7 +1,0 @@
-describe('AnimeFillerList', () => {
-
-  it('constructor', () => {
-    
-  });
-
-});
