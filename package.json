@@ -1,0 +1,29 @@
+{
+  "name": "animefillterlist",
+  "version": "1.0.0",
+  "description": "AnimeFillerList Unofficial API",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "tsc && node dist/index.js"
+  },
+  "keywords": [
+    "anime",
+    "filler",
+    "animefillerlist"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jsdom": "^16.2.13",
+    "@types/axios": "^0.14.0",
+    "@types/jest": "^27.0.3",
+    "jest": "^27.4.5",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "jsdom": "^19.0.0"
+  }
+}
